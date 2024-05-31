@@ -2,10 +2,15 @@
 
 This app allows you to translate text and voice inputs from one language to another. It utilizes various APIs for translation and speech recognition to provide a seamless experience for users.
 
+![HomePage](assets/homepage.png)
+
 ## Features
 - Comprehension checks in multiple languages.
+  ![Comprehension Checks](assets/comprehension.png)
 - Translate text from one language to another.
+- ![Comprehension Checks](assets/text.png)
 - Translate voice inputs to text and then to the desired language.
+- ![Comprehension Checks](assets/voice.png)
 - Supports a wide range of languages for translation.
 
 ## Setup
